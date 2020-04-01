@@ -6,4 +6,4 @@ Used to deploy pre-compiled binaries (approved and signed by GLI)* during node i
 
 
 
-* Approval soon
+** Approval soon
